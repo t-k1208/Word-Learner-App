@@ -1,0 +1,23 @@
+<html>
+  <body>
+    {{ ans.word }}<br>
+
+    {% for q in q_list %}
+      <form action="judge" method="POST">
+        {% csrf_token %}
+        <input type="hidden" name="ans_id" value="{{ans.id}}">
+        <input type="hidden" name="q_id"   value="{{q.id}}">
+        <input type="submit" value="{{q.meaning}}">
+      </form>
+    {% endfor %} 
+
+    {% if past_ans_id != "" %}
+      {% if past_ans_id == past_q_id %}
+        <p>◯ {{past_ans.word}} : {{past_ans.meaning}}</p>
+      {% else %}
+        <p>× {{past_ans.word}} : {{past_ans.meaning}}</p>
+      {% endif %}
+    {% endif %}
+
+  </body>
+</html>

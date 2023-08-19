@@ -1,0 +1,404 @@
+,word,meaning,en,jp,cnt_correct,cnt_wrong
+0,preliminary,"予備の, 準備の",The preliminary Quarter 3 report had information that was confirmed later.,第三四半期の予備報告書には、後で確認されることになる情報が含まれていた。,11,1
+1,acclaimed,賞賛を受けている；高名な,The critically acclaimed movie Knights of the Mist won prizes in 28 countries.,批評家に高い評価を受けた映画「霧の騎士たち」は28カ国で賞を獲得した。,11,0
+2,vulnerable,脆弱な；（攻撃に）さらされやすい,The glassware company feels it is vulnerable to some emerging competitors.,そのガラス製品会社は、台頭してきた競合相手に対して脆弱だと考えている。,11,0
+3,redundant,余分な；（人員が）余剰な,I deleted some redundant agenda points.,私は重複している議案をいくつか削除した。,10,4
+4,negligible,わずかな：取るに足らない,"Interest rates increased only a negligible amount, relieving many borrowers.",金利はわずかに上昇しただけだったので、多くの借り手は安堵した。,11,2
+5,culminate,最高潮に達する,"The festival culminated in live music, a costume parade and sword fighting.",祭りは、生演奏、仮装パレード、剣による戦いで最高潮に達した。,11,0
+6,jeopardize,危機に陥れる：危うくする,Pollution and global warming are jeopardizing the agricultural industry.,大気汚染と地球温暖化が農業を危機に陥れている。,11,2
+7,aggravate ,さらに悪化させる,The new taxes would aggravate the already bad economic situation in this country.,新しい税金は、この国の既に悪い経済状況をさらに悪化させるだろう。,11,3
+8,digress,それる；脱線する,"We've digressed from the topic, so let's get back on the right track.",テーマからそれてしまったので、本筋に戻りましょう。,12,0
+9,scatter ,分散させる；ばらまく,Over 300 wind turbines are scattered across the windy area near the ocean.,300以上の風力発電機が海沿いの風の強い地域に散らばっている。,11,0
+10,reprimand,叱責する,Bill was reprimanded by his supervisor for failing to arrive at work on time.,ビルは定時に出社しなかったとして上司から叱責された。,13,4
+11,misplace,置き忘れる；置き間違える,Kirsten had to look hard for a file she misplaced.,キーステンは置き忘れたファイルを必死に探さなければならなかった。,11,0
+12,fluctuate,変動する；乱高下する,"Although the economy is improving, the exchange rate continues to fluctuate.",経済は改善しているが、為替レートは乱高下し続けている。,10,0
+13,attribute,帰する；〜のせいにする,The staff attributed the failure of the project to a lack of preparation.,スタッフたちはプロジェクトの失敗を準備不足のせいにした。,11,1
+14,eliminate,排除する；除く,A fitness center membership eliminates the need to pay daily entrance fees.,フィットネスセンターの会員になれば日ごとの入場料を払う必要がなくなる。,10,1
+15,alleviate,緩和する；軽減する,This new drug alleviates cold symptoms quickly.,この新しい薬は、すばやく風邪の症状を緩和する。,11,4
+16,evacuate,避難させる；明け渡す - 避難する,The local residents were evacuated due to the forest fire.,森林火災のために地元住民は避難させられた。,11,1
+17,demolish,取り壊す；破壊する,The city plans to demolish some of its older buildings.,市は古い建物のいくつかを取り壊す計画だ。,11,0
+18,exhaust,使い果たす；疲れ果てさせる,The department exhausted its budget before the end of the month.,その部門は月末前に予算を使い切ってしまった。,11,2
+19,deteriorate,悪化する - 悪化させる,"To prevent air quality from deteriorating, the state excludes polluting businesses.",大気の質が悪化するのをくい止めるために、その州は汚染企業を締め出している。,11,0
+20,distract,注意をそらす；気分を紛らわす,I'm afraid you might be distracted by the renovation work this week.,今週の改修作業により気が散ることがあるかもしれません。,12,5
+21,deduct,差し引く；控除する,I don't think we can deduct the cost of this cruise as a business expense.,このクルーズを仕事の経費として落とすことはできないと思う。,11,4
+22,detect,検知する；発見する,The software detected a virus in the computer system.,ソフトウェアはコンピュータ・システムの中にウイルスを検知した。,11,0
+23,foster,育む；促進する,The goal of our program is to foster children's interests in science.,私たちのプログラムの目標は子どもたちの科学への関心を育むことです。,11,0
+24,assert,主張する；断言する,The trader asserted his innocence in the scandal.,そのトレーダーはスキャンダル事件での自身の潔白を主張した。,11,2
+25,consolidate,統合する；強固にする,Our production facilities across Europe will be consolidated in the new plant in Poland.,ヨーロッパ中にある当社の生産施設はポーランドの新工場に統合される。,11,16
+26,penetrate,浸透する；参入する,The firm penetrated the computer market with an affordable new model.,その会社は手ごろな価格の新モデルでコンピュータ市場に参入した。,11,1
+27,accumulate,蓄積する；積み重ねる,I've accumulated enough frequent flyer miles to travel from Tokyo to London for free.,私は東京からロンドンにただで飛ぶのに十分なマイレージを貯めている。,11,4
+28,stimulate,刺激する；活性化する,The board approved a plan designed to stimulate employee interactions.,取締役会は社員の交流を活性化するために作成された計画を承認した。,11,1
+29,incorporate,取り入れる；法人化する,Our new line of sport shoes incorporates the latest trends.,私たちのスポーツシューズの新しいラインは最新のトレンドを取り入れている。,11,2
+30,integrate,統合する；仲間入りさせる,"After the merger, the board worked hard to integrate the corporate cultures of both firms.",合併の後、取締役会は2社の企業文化を統合するのに懸命に取り組んだ。,10,2
+31,embrace,（考えなどを）受け入れる；支持する；抱擁する,Ms. Flores always embraces a charitable cause and works hard to raise funds.,フローレスさんはいつも慈善運動に共鳴して、資金集めに一生懸命取り組む。,11,6
+32,enhance,高める；強化する,A series of investments has enhanced our status as a leading biochemical manufacturer.,一連の投資は、トップ生化学メーカーとしての我々の地位を高めた。,11,0
+33,squeeze,詰め込む；しぼる,I can squeeze that appointment in at three tomorrow.,そのアポは3時に詰め込むことができます。,11,0
+34,compel,強いる；強いて〜させる,An oil shortage will drive up gas prices and compel fuel conservation.,石油不足はガソリン価格を押し上げ、燃料の節約を強いるだろう。,11,1
+35,dismiss,否定する；解雇する,The public relations spokesperson dismissed rumors that the firm had financial problems.,広報担当は、会社に財務上の問題があるという噂を否定した。,11,0
+36,discard,捨てる；処分する,Please discard recyclable trash in the bins provided.,再生ゴミは備え付けの容器に捨ててください。,11,0
+37,conform,（規則・法を）守る；順応する,Most of the staff found it difficult to conform to the company's policy.,社員の多くは会社の方針に従うのが難しいことに気づいた。,11,3
+38,waive,免除する；（権利などを）放棄する,The museum waives the admission fees for city residents.,博物館は市民には入場料を免除する。,10,4
+39,forbid,禁じる；さまたげる,The rule forbids loitering on the museum grounds.,規則は博物館内を当てもなくぶらつくことを禁じている。,11,1
+40,revoke,（免許などを）取り消す；無効にする,Larry's license was revoked after the traffic accident.,交通事故の後、ラリーの免許は取り消された。,11,1
+41,impose,（税金・義務などを）課す,The government imposed a new tax on goods and services.,政府は物品とサービスに新しい税金を課した。,12,3
+42,classify,分類する；機密扱いする,The secretary classified the documents by level of importance.,秘書は書類を重要度に応じて分類した。,11,1
+43,resume,再開する；取り戻す - 再び始まる,"Assembly line 7 resumed operating in the display factory, after some repairs.",修理をした後、ディスプレイ工場の組み立てライン7番は操業を再開した。,11,2
+44,retrieve,回収する；検索する,Matthew discarded the file and couldn't retrieve it.,マシューはファイルを捨ててしまい、それを回収することができなかった。,11,3
+45,expedite,早める；促進する,Customers may have orders expedited through an extra €5 charge.,顧客は5ユーロの追加料金で注文を早く処理してもらえる。,11,2
+46,defer,（予定などを）遅らせる；延期する,Mr. Forester deferred paying the bills until he got paid.,フォレスターさんは給与の支払いを受けるまで、請求書の支払いを遅らせた。,11,2
+47,incur,被る；負担する,The corporation incurred substantial losses during the stock market crash.,その会社は株式市場の暴落の時期に莫大な損失を被った。,11,2
+48,expose,さらす；露出する,Jan was always exposed to classical music as a child.,ジャンは子供の頃、いつもクラシックに触れていた。,11,0
+49,implement,実行する；履行する,Our company gives awards for ideas that are implemented.,私たちの会社では、実行に移されるアイデアに賞を出す。,10,5
+50,merge,合併する；融合する,The car marker merged with its competitor after months of negotiations.,その自動車メーカーは何ヶ月もの交渉の末、競合会社と合併した。,10,1
+51,seal,調印する；封印する - 調印；封印,We finally sealed a deal with the city government.,我々はついに市政府との契約に調印した。,11,0
+52,unveil,発表する；明かす,Exhibitors at the International Telecom Show unveiled several interesting consumer services.,国際テレコム・ショーの展示会社はいくつかの興味深い消費者サービスを発表した。,11,1
+53,preside,司会をする；統括する,CEO Michelle Sykes will preside over the annual shareholders conference.,ミシェル・サイクスCEOが年次株主総会の司会を務める。,11,1
+54,solicit,強く求める；勧誘販売する,The NPO is soliciting donations to raise and train guide dogs.,そのNPOは、盲導犬を育成・教育するための寄付を求めている。,11,3
+55,authorize,許可する；権限を与える,"We are sorry, but you aren't authorized to access our web site.",申し訳ありませんが、あなたは当社ウェブサイトへのアクセスが許可されていません。,11,0
+56,endorse,承認する；支持する；（小切手に）裏書きする,A plan to develop a new material has been endorsed by the board of directors.,新素材を開発する計画は取締役会によって承認された。,11,4
+57,strive,励む；努力する,Hamwell Store clerks strive to answer all shopper questions.,ハムウェル・ストアの店員は買い物客のどんな質問にも答えようと努めている。,11,1
+58,interact,交流しあう；相互に作用し合う,Robert was told that he should interact more with his colleagues.,ロバートは同僚たちともっと交流すべきだと言われた。,11,0
+59,accompany,同行する；付属する,My boss will accompany me to the client's office.,クライアントのオフィスには上司が同行してくれます。,11,1
+60,stroll,散歩する - 散歩,The couple strolled down the street toward the Seine.,カップルはその通りをセーヌ川の方に歩いて行った。,11,2
+61,surround,囲む；包囲する,Allen is surrounded by paperwork every day and never seems to get things done.,アレンは毎日、書類に囲まれ、仕事を終えたという気がしない。,10,3
+62,reflect,反映する；熟考する,Olivia's fine work reflects her intelligence.,オリビアの見事な仕事ぶりは彼女の知性を反映している。,11,0
+63,persist,こだわる（in〜）；続く,The president persists in his plan to move the headquarters to the city center.,社長は本社を都心部に移転する計画にこだわっている。,11,7
+64,generate,生み出す；引き起こす,We hope this new venture will generate a lot of revenue.,私たちはこの新規事業が大きな収益を生むことを期待している。,11,1
+65,prescribe,処方する；規定する,The doctor prescribed me medication for high blood pressure.,医者は私に高血圧の薬を処方した。,11,1
+66,devise,考え出す；考案する,Ray's team devised a new method for managing the inventory.,レイのチームは在庫を管理する新しい方法を考え出した。,11,0
+67,tailor,（要望に）合わせて作る；（服を）仕立てる,The IT company tailors its solutions to specific company requirements.,そのIT企業は、個別の会社のニーズに合わせて解決策を作り上げる。,11,1
+68,absorb,吸収する；夢中にさせる,The project has absorbed all of our department's resources.,そのプロジェクトは我々の部門の全ての資源を吸収してしまった。,11,2
+69,inherit,引き継ぐ；受け継ぐ,The president has no heir to inherit his business.,社長には事業を引き継ぐべき後継者がいない。,11,1
+70,thrive,繁栄する；成功する；（植物が）生い茂る,The economy began thriving only after a long period of negative performance.,経済は、長いマイナス成長の後ようやく活況を呈し始めた。,11,0
+71,emerge,現れる；明らかになる,The company has emerged as our strongest competitor in computer games.,その会社はコンピュータゲーム業界で我々の最強のライバルとして登場した。,11,3
+72,occur,起こる；（考えが）浮かぶ,Emergency lights in the building will activate if a power interruption occurs.,停電が発生すれば、建物の非常灯が点灯します。,11,2
+73,suspend,一時的に停止する；保留にする,The city suspended its bus service during the typhoon.,市は台風が襲来している間、バスの運行を一時的に停止した。,11,0
+74,retain,保持する；（人を）雇っておく,Anyone who does business should retain a lawyer.,事業を行う人は誰もが弁護士を雇っておくべきだ。,11,0
+75,pursue,追求する；〜の後を追う,I decided to pursue a career in information systems after completing my university studies.,私は大学の勉強を終えた後、情報システムの仕事を続けていく決心をした。,11,2
+76,assure,保証する；確約する,The station manager assured us that the train would be on time.,駅長は列車が予定通りであることを私たちに保証した。,10,2
+77,comprise,構成する；含む,The employee's union is comprised of 150 members.,その労働組合は150人の組合員で構成されている。,11,8
+78,constitute,構成する；制定する,Employees from eight different countries constitute the design team.,8つの異なった国の社員が、デザインチームを構成する。,11,2
+79,institute,（団体・規則などを）設ける - 協会・研究機関,The personnel department will institute a new rule that will cut down on employee tardiness.,人事部門は従業員の遅刻を削減する新しい規則を設ける。,11,1
+80,assume,仮定する；（仕事などを）引き受ける,Analysts are assuming that inflation will rise over the next quarter.,アナリストたちは次の四半期にはインフレが高まると想定している。,13,3
+81,owe,借りがある；義務を負っている,We owe the maintenance company for services rendered.,我々は保守管理会社に提供されたサービスの代金を支払わなければならない。,11,0
+82,anticipate,予想する；期待する,The shop owner hadn't anticipated a crowd of people on opening day.,店長は開店日にたくさんの人が来ることを期待していなかった。,11,3
+83,illustrate,例解する；説明する,Rita used historical quotes to illustrate her seminar points.,リタは、セミナーの要点を説明するのに歴史的な引用句を使った。,11,0
+84,clarify,明らかにする,Pam clarified her plans for the building project during the meeting.,パムは会議の中でその建設プロジェクトの計画を明らかにした。,11,3
+85,allot,割り当てる；分配する,The moderator allotted 30 minutes to each speaker at the conference.,司会者は会議でそれぞれのスピーカーに30分を割り当てた。,10,1
+86,compile,（情報などを）取りまとめる,I've compiled data that might be helpful to you.,あなたの役に立つかもしれないデータを取りまとめました。,10,1
+87,browse,（店などで）見て回る；拾い読みをする,Elaine browsed the items in several fashion stores.,エレーヌはいくつかの洋品店で商品を見て回った。,11,1
+88,secure,確保する；守る,I've secured Meeting Room C for our brainstorming session.,ブレスト会議のために会議室Cを確保しています。,11,3
+89,obtain,取得する；獲得する,Mr. Kim must obtain a visa before coming to work at our firm.,キムさんは私たちの会社に働きに来る前にビザを取得しなければならない。,11,0
+90,reimburse,払い戻す；返金する,Sam asked his company to reimburse him for travel expenses.,サムは会社に交通費を払い戻してくれるよう依頼した。,11,2
+91,stack,積み上げる；積み重ねる,The workers stacked products on the warehouse shelves.,作業員たちは倉庫の棚に製品を積み上げた。,11,1
+92,facilitate,促進する；司会をする,The firm facilitated cooperation among its branches through regular meeting.,その会社は、定例会議を通して支店間の協調を促進した。,11,11
+93,renovate,改装する；刷新する,The office has been more comfortable ever since it was renovated.,オフィスは改装されてから、いっそう快適になった。,11,0
+94,evaluate,評価する；査定する,One of the challenges for managers is to evaluate employee fairly.,管理者にとっての重責の一つは従業員を公平に査定することだ。,11,0
+95,assess,評価する；査定する,The city officials were asked to assess the damage caused by the earthquake.,市職員は地震がもたらした被害を評価するよう求められた。,10,3
+96,demonstrate,実演して説明する - 示威運動をする,We plan to demonstrate our new printer at several electronics stores.,私たちは新しいプリンターをいくつかの電器店で実演する予定です。,11,0
+97,collaborate,共同作業をする；協力する,The rival firms decided to collaborate in order to increase business.,それら競合会社は事業を拡大するために協力することを決めた。,11,1
+98,proceed,進行する；続行する,"After the fire in the building, business proceeded as usual.",そのビルで火災が発生した後も、業務は通常通り進行した。,11,0
+99,accommodate,（建物などが人を）収容する；便宜を図る,The largest banquet room of our hotel can accommodate 500 guests.,私どものホテルの最大の宴会場は500人の客を収容できます。,11,3
+100,perform,実行する；演奏する,It is essential that all employees perform their contractual obligations.,全社員が契約義務を実行することが不可欠だ。,12,1
+101,undergo,経験する；耐える,Many companies are undergoing great hardships in these difficult economic times.,多くの会社はこの経済状況が厳しい時期に、大きな苦難を経験している。,11,0
+102,preserve,保存する；保護する,Big business must also do its part to preserve natural resources.,大手企業も天然資源を保護することに貢献しなければならない。,11,2
+103,observe,遵守する；観察する；祝う；気づく,Workers must observe safety guidelines in the factory.,労働者は工場の安全基準を遵守しなければならない。,8,3
+104,comprehend,理解する；含む,It took me a while to comprehend what the boss meant.,上司が言わんとすることを理解するのにしばらくかかった。,8,1
+105,settle,解決する；落ち着かせる - 居を定める,The patent dispute between the two companies was settled out of court.,両社の特許紛争は法廷外で解決された。,8,0
+106,exceed,上回る；度を超える,The profits from the sale exceeded our expectations.,そのセールの利益は我々の予想を上回った。,7,2
+107,mention,言及する；〜について述べる,The president did not mention his retirement plans during his speech.,社長はスピーチの中では自分の退職計画に言及しなかった。,8,1
+108,accuse,非難する；訴える,The mayor was accused of delaying the decision on the construction.,市長は建設計画の決定の遅れを非難された。,8,3
+109,inspect,詳しく調べる；視察する,The health department inspected our restaurant kitchen without prior notice.,保健局は、事前通告なしで私たちのレストランの厨房を調査した。,7,0
+110,disturb,邪魔をする；妨げる,The secretary's work was disturbed by constant phone calls.,その秘書の仕事は絶え間ない電話によって妨げられた。,7,1
+111,withdraw,撤回する；撤退する；（預金などを）引き出す,Chloe withdrew her application for employment with the trading company.,クロエはその商社の仕事への応募を撤回した。,8,2
+112,consent,同意する,She has consented to the terms of the contract.,彼女は契約条件に同意した。,8,7
+113,locate,見つける；位置づける,"After the database crashed, the systems engineer located the source of the error.",データベースが壊れた後、そのシステムエンジニアはエラーの原因を突き止めた。,8,0
+114,enclose,同封する,Please enclose your resume with the application and send it to our office.,応募書類に履歴書を同封して、弊社までお送りください。,8,1
+115,recognize,認める；認識する,Tim got a promotion because his hard work was recognized.,ティムはハードワークが認められて昇格した。,8,1
+116,admire,賞賛する；賛美する,Mr. Warner admires those who work hard to make a living.,ワーナーさんは生計を立てるために一生懸命働く人を褒める。,8,0
+117,fulfil,実行する；（義務を）果たす,The CEO fulfilled his promise to cut operating costs by 15%.,CEOは営業コストを15％削減するという約束を果たした。,8,1
+118,insist,強く主張する；言い張る,The manager insisted that the client accept the gift.,マネージャーは顧客に贈答品を受け取ってもらいたいと強く主張した。,8,3
+119,ensure,確実にする；保証する,The company's careful preparations ensured its success.,その会社の周到な準備が成功を確実なものにした。,8,3
+120,address,取り組む,Her team laid out a plan to address falling sales at the firm.,彼女のチームは、会社の売上減に取り組む計画を立案した。,8,0
+121,wage,賃金,The president guaranteed wage increases in his video message.,社長はビデオメッセージで昇給を約束した。,7,1
+122,prove,〜であることがわかる - 証明する,The annual report proved to be false.,その年次報告書は虚偽であることがわかった。,8,0
+123,proceeds,売上高；収益,The firm donated proceeds from the event to a children's charity.,その会社はイベントの収益を子どもたちの慈善事業に寄付した。,8,1
+124,enroll,登録する；入学する - 記録する,Enroll today in our special course on starting a business.,企業についての特別コースに今日にもご登録ください。,8,0
+125,file,申請する (for~) - 提出する；とじ込む,Poor sales caused the company to file for bankruptcy.,売上不振でその会社は破産申請に追い込まれた。,8,0
+126,designate,指名する；指定する,It is your duty to designate a new leader of the team.,チームの新しいリーダーを指名するのはあなたの仕事です。,7,4
+127,indicate,示す；指示する,Mr. Lee indicated his wishes for new contract terms in a letter.,リーさんは手紙で新しい契約条件を望んでいることを示した。,8,0
+128,approve,同意する；賛成する (of~) - 承認する,She didn't approve of the CEO's dicision to relocate abroad.,彼女は海外転勤というCEOの決定に同意しなかった。,7,6
+129,incidentally,ところで；偶然に,"I know the deadline. Incidentally, is there enough left in the project budget?",納期は知っている。ところで、そのプロジェクトの予算は十分に残っているの？,7,3
+130,simultaneously,同時に,A translation of the speech could be simultaneously heard during the broadcast.,放送中にスピーチの翻訳を同時に聞くことができた。,7,1
+131,presumably,おそらく,Jen presumably missed the bus because she is very late.,ジェンはいやに遅いので、おそらくバスに乗り遅れたのだろう。,8,3
+132,exponentially,急速に；飛躍的に,Online views of the dance video rose exponentially as word spread about it.,口コミが広がるにつれて、そのダンス動画のネット閲覧件数は急速に伸びた。,8,0
+133,arguably,間違いなく,This is arguably the best Madonna painted by Raffaello.,これは間違いなく、ラファエロが描いた最高の聖母だ。,8,7
+134,clockwise,時計回りに,"Please state your opinions, going clockwise around the table.",テーブルの時計回りに、自分の意見を言ってください。,8,0
+135,eloquently,雄弁に,The president spoke eloquently on the benefits of the merger deal.,社長は合併の利点を雄弁に語った。,7,0
+136,legibly,読みやすい字で,"This is an important document, so please write legibly in it.",これは重要な書類なので、読みやすい字で記入してください。,7,9
+137,separately,別々に,Ron and I decided to go to the trade show separately.,ロンと私はその見本市に別々に行くことに決めた。,8,0
+138,hence,それゆえ；従って,"The company had posted losses for three consecutive years; hence, the CEO resigned.",その会社は3年連続して赤字を計上した。それゆえ、CEOは辞任した。,8,0
+139,subsequently,後で；その後,"She bought an old house in the suburbs, and subsequently renovated it completely.",彼女は郊外に古い家を買った。そして、その後でそれを完全にリフォームした。,8,4
+140,virtually,実質的に；事実上,The entire city was virtually at a standstill during the blackout.,停電の間、全市が実質的に麻痺状態になった。,8,4
+141,stagnant,沈滞した；淀んだ,The economy is stagnant partly because people prefer saving to spending.,経済が沈滞している一因は、人々が消費よりも貯蓄を好んでいるからだ。,8,4
+142,contentious,議論を呼ぶ；論争好きな,The president finally dropped his contentious restructuring plan after facing fierce criticism.,厳しい批判を浴びた後で、社長は最終的に彼の物議をかもした再編計画を取り下げた。,8,14
+143,austere,厳しい；緊縮の；簡素な,"Under austere financial conditions, the company had to slash 20% of its workforce.",厳しい財務状況の中、その会社は労働力を20％削減しなければならなかった。,8,12
+144,prevailing,普及している；優勢な,Visiting locations of famous scenes is a prevailing trend among young moviegoers.,有名シーンの場所を訪れることは、若い映画ファンの間で流行トレンドになっている。,8,9
+145,agile,俊敏な；頭が切れる,The investor was agile enough to sell all her stocks just before the crash.,その投資家はきわめて俊敏で、暴落の前に全ての保有株を売り払った。,8,1
+146,pledge,誓約する - 誓約,The CEO pledged the company would see robust growth next year.,CEOは、会社は来年には力強い成長をすると誓約した。,8,11
+147,touching,感動的な,Her singing was the most touching part of the ceremony.,彼女の歌はそのセレモニーの最も感動的な一幕だった。,7,0
+148,sweeping,全面的な；徹底的な,You can enjoy a sweeping view of the city from here.,ここからはこの市の全景を楽しむことができます。,8,4
+149,optimal,最適な,We must look for the optimal timing to promote our new product.,私たちは新製品を売り込む最適のタイミングを探さなければならない。,8,3
+150,pivotal,重要な；中心的な,Exposure to social media is pivotal to our sales campaigns.,ソーシャルメディアへの露出は私たちの販売キャンペーンにとって重要だ。,8,0
+151,commendable,賞賛に値する；立派な,The rescue teams did commendable work in the flood-damaged area.,洪水被災地域で、救助チームは賞賛に値する仕事をした。,8,15
+152,congenial,好適な；親しみやすい,The small village is a congenial place for raising children.,その小さな村は子供を育てるのには好適な場所だ。,8,16
+153,cumulative,累積的な,How do you plan to deal with your cumulative debts?,君は積み上がった債務をどう処理するつもり？,8,3
+154,utmost,最高の；最上の,We assemble watch movements with the utmost precision.,私たちは最高の正確さで時計の駆動装置を組み立てます。,8,4
+155,concerted,協調した,The two carmakers made a concerted effort to jointly develop a new engine.,自動車メーカー2社は、新しいエンジンの共同開発に協調して取り組んだ。,8,9
+156,exquisite,洗練された；優美な,Her flat is furnished with exquisite taste.,彼女のアパートは洗練された趣味の家具が備えられている。,8,14
+157,eligible,資格がある；権利がある,All employees are eligible to enter the national pension plan.,社員は全員が国の年金に入る資格がある。,8,14
+158,prominent,傑出した；有名な,"Our guest tonight is the prominent composer and pianist, David Mackenzie.",私たちの今夜のゲストは、有名な作曲家でピアニストでもあるデイビッド・マッケンジーです。,8,3
+159,intact,完全な状態の；壊れていない,Pack fragile goods securely to ensure they arrive intact.,完全な状態のまま届くように、壊れやすい品物はしっかり包装してください。,7,0
+160,comprehensive,総合的な；包括的な,This booklet is a comprehensive guide to the tax returns in the country.,この小冊子は、この国での納税申告の総合的な手引きです。,8,1
+161,multiple,多数の,We have considered multiple sites for our new factory.,我々は新しい工場のために多数の場所を検討してきた。,8,2
+162,mature,成熟した；大人になった,We must shift from mature car markets such as Japan and the EU.,我々は日本やEUのような成熟した自動車市場からの転換を図らなければならない。,8,1
+163,irrevocable,取り消しできない；解約不能の,The client was warned that his decision would be irrevocable.,その顧客は、彼の決定が取り消しできないものになると警告された。,8,2
+164,assorted,各種取り揃えた,"We offer assorted chocolates in white, milk, dark and more.",私たちは、ホワイト、ミルク、ダークなど、各種のチョコレートを提供します。,8,2
+165,ardent,熱心な；情熱的な,The mayor is well-known as an ardent supporter of forest preservation.,市長は森林保護の熱心な支援者としてよく知られている。,7,6
+166,pertinent,関連する；適切な,We need more data pertinent to the reliability of the device.,その機器の信頼性に関するデータがもっと必要だ。,8,12
+167,high-profile,人目を引く；知名度の高い,Francine Patton is a high-profile executive who has often been interviewed by the business media.,フランシン・パットンはビジネス系のマスコミからよくインタビューを受ける知名度の高い経営者である。,7,1
+168,top-notch,一流の；最高の,Marvin Xia is a top-notch currency trader who earns his firm substantial profits.,マービン・シアは、彼の会社に大きな利益をもたらす一流の通貨トレーダーだ。,8,2
+169,commensurate,見合った；〜にふさわしい,I was offered a salary commensurate with my experience.,私は自分の経験に見合った給料を提示された。,8,12
+170,indispensable,不可欠な；絶対必要な,The R&D department is indispensable to the expansion plans of our company.,研究開発部門は、我が社の拡張計画に不可欠である。,8,10
+171,cordial,心のこもった；友好的な,"Shareholders were mostly cordial at the conference, but tension remained over some policies.",その会議で株主たちはおおむね友好的だったが、いくつかの方針をめぐっては敵対したままだった。,8,4
+172,in-depth,綿密な；徹底的な,An in-depth study of the technical problem is necessary.,その技術問題の綿密な調査が必要とされる。,8,3
+173,versatile,用途が広い；（人が）何でもできる能力のある,The super Sponge is a versatile item usable on most home surfaces.,スーパースポンジは、家庭の表面部分のほとんどに使える用途の広い製品だ。,8,1
+174,spacious,広々とした,Rhonda's new house has a spacious kitchen.,ロンダの新しい家には広々としたキッチンがある。,8,2
+175,unprecedented,空前の；前代未聞の,The company enjoyed unprecedented success this year.,その会社は今年、空前の成功を収めた。,7,6
+176,outstanding,未払いの；卓越した,I have a balance of over $300 outstanding on my account.,私の口座には300ドル以上の未払いの残高がある。,8,5
+177,rigid,厳格な；硬直した,There are many rigid rules we have to follow while working at the factory.,工場で働くときには、守らなければならない厳格な規則がたくさんある。,8,2
+178,consistent,一貫性のある；矛盾しない,We train staff thoroughly in order to provide consistent service levels.,私たちは一貫した水準のサービスを提供するため、スタッフを徹底的に訓練します。,8,8
+179,impeccable,欠点のない；非の打ちどころのない,"Rena had impeccable leadership credentials, so she was often approached by executive recruiters.",レナは申し分ない指導者の実績があったので、よく経営幹部専門のヘッドハンターからアプローチを受けた。,7,12
+180,obsolete,時代遅れの；廃れた,My smartphone is obsolete compared to newer models but adequate for my purposes.,私のスマホは新しいモデルと比べると時代遅れだが、私の目的にはかなっている。,8,7
+181,complimentary,無料の；優待の,Some airlines no longer give out complimentary meals during fights.,航空会社の中にはフライト中に無料の食事をもう出さないところもある。,7,8
+182,splendid,素晴らしい；豪華な,Dr. Cook is known for his splendid achievements in medicine.,クック博士は医学分野での素晴らしい実績で知られている。,7,3
+183,cozy,心地よい；暖かい雰囲気の,The new restaurant is popular with women because it has a cozy atmosphere.,その新しいレストランは心地よい雰囲気を持っているので、女性に人気がある。,8,1
+184,terse,簡潔な；簡明な,The boss always gives us terse answere to our questions.,上司はいつも、私たちの質問に対して簡潔な回答をする。,8,1
+185,intensive,集中的な；徹底的な,All new rescuits must undergo intensive training at our firm.,我が社では、新入社員は全員、集中研修を受けなければならない。,8,5
+186,fragile,壊れやすい；脆い,"Ackien Express takes care with fragile items, placing them in special wrapping.",エイキエン・エクスプレスは特別な包装を施して、壊れやすい物を慎重に取り扱う。,8,1
+187,overwhelming,圧倒的な；抗しがいたい,The large workload seemed overwhelming to some staff.,その大きな作業量に圧倒されそうになる社員もいた。,8,0
+188,discreet,慎重な；思慮深い,Scott Consulting is discreet with all client matters.,スコット・コンサルティングは顧客の案件すべてに慎重な対応をする。,8,2
+189,abundant,豊富な；豊かな,The area was found to have abundant supplies of rare metal.,その地域は希少金属が豊富であることがわかった。,8,2
+190,genuine,本物の；心からの,We looked over the document many times to make sure it was a genuine one.,私たちは、本物かどうか確認するためにその書類を何回も目を通した。,8,1
+191,enormous,莫大な；巨大な,Solar energy has enormous potential which is yet to be tapped.,太陽エネルギーは、まだ利用されていない莫大な可能性を持つ。,8,2
+192,feasible,実現可能な,The factory managers decided 10 percent more output was feasible.,工場のマネージャーたちは、さらに10％の生産増が実現可能だと決断した。,8,3
+193,remote,遠く離れた；（可能性などが）わずかな,"Liz lives in a remote area, far from any town or city.",リズはどの町や市からも遠い、へんぴなところに住んでいる。,8,0
+194,synthetic,合成の；人工の,It's bad for your health to consume beverages with synthetic flavoring.,人工の香味料が入った飲料を飲むことは健康によくない。,8,0
+195,preceding,先の；前述の,"During the preceding meeting, one of the directors was dismissed.",先の会議で、取締役の一人が解任された。,8,3
+196,consecutive,連続する；継続的な,Our company has posted profits for six consecutive years.,我が社は6年連続で利益を計上してきた。,7,2
+197,diverse,多様な；さまざまな,The country is made up of many diverse cultures that must be preserved.,この国は、保存されるべき数多くの多様な文化で形成されている。,6,2
+198,intense,激しい；情熱的な,Graig had an intense discussion with the boss about business ethics.,グレイグは企業の倫理について、上司と激しい議論をした。,7,6
+199,mandatory,必須の；強制的な,The CEO told the employee that it is mandatory to attend the seminar.,CEOは社員にセミナーに出席することは必須だと言った。,7,0
+200,adjacent,〜の隣に,Meg's office is adjacent to my office.,メグのオフィスは私のオフィスの隣だ。,7,1
+201,confidential,機密の；内密の,Confidential documents must be stored in locked cabinets.,機密書類は、鍵のかかったキャビネットに保管しなければならない。,7,2
+202,courteous,礼儀正しい；丁重な,A good salesclerk should greet the customers in a courteous manner.,良い販売員は、顧客に対して礼儀正しい態度で応対するべきだ。,7,2
+203,brief,簡潔な；短い,"We have little time left, so please be brief.",時間がほとんどないので、簡潔にお願いします。,5,2
+204,overall,全般的な - 全般的に,The doctor assured me that my overall health is quite sound.,その医師は、私の全般的な健康が極めて良好だと請け負った。,4,1
+205,ongoing,進行中の；継続中の,The attached file contains the list of ongoing projects.,添付ファイルには進行中のプロジェクトのリストが含まれます。,5,1
+206,opposite,反対の；向こう側の - 反対に；向こう側に,Bus Route 381 serves opposite sides of the city.,バス路線381は市の両側を走っている。,5,0
+207,reasonable,合理的な；（値段が）手頃な,The staff had a meeting to find a reasonable solution to the problem.,スタッフたちはその問題の合理的な解決策を見つけるために会議を開いた。,5,1
+208,available,利用できる；役立つ；（時間が）空いている,Please stay on the line and the next available agent will help you.,電話を切らずにお待ちください。次に手が空いた職員がご相談を承ります。,5,1
+209,essential,基本的な；本質的な；不可欠な,The contract was changed except for its essential terms.,その契約は基本的な条件を除いて変更された。,4,1
+210,due,支払い期限がきた；予定で；しかるべき,The accountant neglected to pay the amount due on the bill.,会計士は請求書の支払額を払うのを怠った。,5,0
+211,apparent,明らかな；外見上の,There is an apparent advantage to hiring a headhunter when making a career change.,転職をするときは、ヘッドハンターを雇うのが明らかに有利だ。,4,3
+212,urgent,至急の；切迫した,We received an urgent message from the boss calling for an emergency meeting.,私たちは緊急会議を求める上司からの至急のメッセージを受け取った。,5,0
+213,stable,安定した；一定の,The exchange rate remained stable throughout the week.,為替レートは1週間にわたって安定していた。,5,1
+214,competitive,競争の；他に負けない,The retail sector is highly competitive and many shops close after one year in business.,小売業界は競争がとても激しく、多くの店が一年後に閉店となる。,5,0
+215,remarkable,卓越した；際立った,Those who make remarkable achievements win the Nobel Prize.,卓越した業績をあげた人にはノーベル賞が授与される。,5,3
+216,potential,可能性のある；見込みのある - 可能性；見込み,Several potential sites were considered  for the new call center.,新しいコールセンターにはいくつかの候補地が検討された。,4,1
+217,critical,重要な；批評の；（病状・状況が）危険な,"As the election drew near, the candidate reached a critical point in the campaign.",選挙が近づき、その候補者は選挙運動の重要局面にさしかかった。,4,1
+218,deliberate,（考えが）慎重な；計画的な；故意の,The section chief is deliberate in her decision-making process.,セクション長は意思決定の過程において慎重だ。,5,13
+219,mutual,相互の；共同の,The two powerful leaders had mutual respect for each other.,その2人の力ある指導者は互いに尊敬しあっていた。,5,0
+220,liable,〜に責任がある；〜しがちである,We are not liable for accidents caused by misuse by user.,使用者の誤用による事故に対しては責任を負いかねます。,5,0
+221,generous,気前のいい；寛大な,The CEO is a generous man and pays his employees well.,CEOは気前のいい人で、社員に十分な給料を支払う。,5,0
+222,decent,礼儀をわきまえた；（振る舞いが）適切な,The president stressed the need to follow decent business practices at all times.,社長は、どんなときにも適切なビジネス慣行に従う必要があることを強調した。,5,7
+223,sufficient,十分な；足りる,Ann has sufficient savings and can retire early.,アンは十分な貯金があり、早めに引退することができる。,5,4
+224,dedicated,懸命な；献身的な,The firm is a dedicated protector of natural resources in the region.,その会社はこの地域の天然資源保護に献身的に取り組んでいる。,5,2
+225,competent,有能な；適任の,Jan is a competent employee and deserves a raise.,ジャンは有能な社員で、昇給に相応しい。,4,0
+226,conventional,保守的な；慣習に従った；平凡な,The boss likes to wear a conventional navy suit.,上司は保守的なネイビーのスーツを着るのを好む。,5,1
+227,diligent,勤勉な；熱心な,The diligent manager revived the failing business.,その勤勉なマネージャーは失敗しかけた事業を立ち直らせた。,5,7
+228,temporary,一時的な；臨時の,Ms. Mansfield will be the temporary editor while Mr. Chang is on leave.,マンスフィールドさんは、チャンさんの休暇中、臨時の編集長を務める。,5,3
+229,reliable,信頼できる；頼もしい,Alex is proving to be a hardworking and reliable assistant.,アレックスが勤勉で信頼できるアシスタントだということがはっきりしている。,4,0
+230,respective,それぞれの,The sisters are skilled in their own respective areas of science.,その姉妹は化学のそれぞれの領域に熟達している。,5,1
+231,considerable,（数量・程度などが）かなりの；注目に値する,We spent a considerable amount of money on refurbishing the office.,私たちは事務所の改装にかなりの金額を使った。,5,5
+232,promising,前途有望な；見通しの明るい,Analysts forecast promising stock market gains for next quarter.,アナリストたちは次の四半期には株式市場の上昇が期待できると予測している。,4,2
+233,luxury,高級な；贅沢な - 高級；贅沢,"When Liz got a raise, she was able to afford a luxury car.",リズは昇給して、高級車を買う余裕ができた。,5,0
+234,lucrative,利益のあがる；儲かる,The sales manager was praised for coming up with a lucrative marketing strategy.,販売部長は利益のあがるマーケティング戦略を考え出したとして称賛された。,5,4
+235,affluent,裕福な,Ms. Han is an affluent investor who is active in the stock market.,ハンさんは株式市場で活躍する裕福な投資家だ。,5,2
+236,primary,最も重要な；第一の；初級の,Joshua has primary responsibility for guest services at the hotel.,ジョシュアはホテルで顧客をもてなすことが一番重要な職務である。,5,1
+237,inexpensive,安価な；手頃な値段の,Paul serched for the most inexpensive flight over the Internet.,ポールはインターネットで最も安価なフライトを探した。,5,0
+238,exclusive,独占的な；高級な,Mary was finally made a member of the exclusive club.,メアリーはついにその高級クラブの会員になった。,5,0
+239,equivalent,同等の；等量の,"After the prototype was destroyed, the engineers couldn't make an equivalent model.",試作品が壊れてしまった後で、技術者たちは同等のモデルを作ることができなかった。,4,0
+240,valid,有効な；妥当な,Passengers boarding ES Flight 623 to Bucharest must hold valid passports.,ブカレスト行きES623便にご乗車のお客様は有効なパスポートをお持ちでないといけません。,5,0
+241,reluctant,〜を嫌がる；乗り気でない,Ms. Zales is reluctant to help with such a risky endeavor.,ゼイルズさんは、そんな危険な事業を支援するのに乗り気ではない。,5,0
+242,indifferent,無関心な；冷淡な,"No matter how hard we tried to convince him, the client was indifferent to our proposal.",私たちはその顧客を説得しようと必死に試みたが、彼は私たちの提案に無関心だった。,5,0
+243,unanimous,全員一致の,The staff made a unanimous decision to set up a break room.,社員は休憩室の設置を満場一致で決定した。,5,2
+244,vacant,空いている；欠員の,The firm upt a help-wanted ad in the paper to fill the vacant manager position.,その会社は欠員の部長ポストを埋めるために新聞に求人広告を出した。,5,1
+245,embarrassed,恥ずかしい；きまりが悪い,I'm a bit embarrassed by all your praise.,お褒めの言葉をいただき、少々おはずかしいです。,5,1
+246,delighted,非常に喜んだ,Customers will be delighted by our virtual try-on services.,顧客は私たちのバーチャル試着サービスを喜んでくれるでしょう。,5,1
+247,sensitive,秘密の；微妙な,Only approved employees have access to sensitive internal information.,承認された社員だけが、守秘義務のある内部情報にアクセスできる。,5,0
+248,patient,我慢強い；寛容な,Please be patient when waiting for a response to your inquiry.,お問い合わせへの回答をお待ちの際は、ご寛容のほどお願いいたします。,5,0
+249,inferior,〜より劣った,Mr. Danforth's low rank made him feel inferior.,ダンフォースさんの低い地位は彼に劣等感を覚えさせた。,5,0
+250,overnight,一泊の - 一泊して,My wife left this morning for an overnight business trip.,私の妻は今朝、1泊の出張に出かけた。,5,0
+251,clerical,事務（員）の,Ms. Kramer got a clerical job at a law firm downtown.,クレイマーさんはダウンタウンの法律事務所で事務の仕事に就いた。,5,0
+252,significant,（数量が）相当な；重要な,The report predicts a significant increase in oil prices.,報告書は石油価格の大幅な上昇を予測している。,5,3
+253,specific,具体的な；特定の,Can you be more specific?,もう少し具体的に言ってもらえませんか。,5,0
+254,elementary,初歩的な；基礎的な,These classes take students from elementary to advanced level.,これらクラスは生徒を基礎レベルから上級レベルまで引き上げます。,5,1
+255,fairly,かなり；公正に,This isn't a top brand but is fairly popular among young people.,これはトップブランドではないが、若い人たちの間ではかなり人気がある。,5,1
+256,certainly,確かに；本当に；その通り,Jan and Susan are certainly welcome to join us for dinner tonight.,私たちの今夜のディナーにジャスティンとスーザンが参加してくれることを心から歓迎します。,5,6
+257,relatively,比較的に；ある程度,Relatively affluent people tend to by this product line.,ある程度裕福な人々がこの製品ラインを買う傾向がある。,5,3
+258,eventually,最後には；結局は,"After long negotiations, we eventually reached an agreement.",長い交渉の末、我々はついに合意にこぎつけた。,4,3
+259,otherwise,そうでないと；別なふうに；他の点では,"Don't forget to send your deposit in advance; otherwise, your reservation will not be processed.",デポジットを事前に送付するのを忘れないでください。そうしていただかないと、ご予約が処理されません。,5,0
+260,nevertheless,それでも；それにもかかわらず,"The climbing was difficult, but fun nevertheless.",その登山は難しかったっが、それでも楽しかった。,5,1
+261,preferably,できれば；なるべく,"I want to meet you tomorrow morning, preferably at ten.",明日の朝にお会いしたいです。できれば、10時がいいのですが。,5,7
+262,extremely,きわめて；極端に,Carl is extremely good at chess and plays it every day.,カールはチェスがとても上手く、毎日指す。,5,1
+263,understandably,当然だが；尤もなことだが,The colleagues were understandably shocked by her sudden resignation.,当然のことだが、彼女の突然の辞職に同僚たちはショックを受けた。,5,0
+264,inevitable,避けられない,The scientist said that a big earthquake in the near future is inevitable.,その科学者は、近い将来、大地震が起きることは避けられないと言った。,5,0
+265,legitimate,合法の；合理的な,The bank insisted that they have been engaging in legitimate business practices.,その銀行は合法的な商行為に従事してきたと主張した。,4,1
+266,superficial,表面的な；浅い,Jane and Jack was not simply a superficial romantic comedy but a heartwarming film.,「ジェーンとジャック」は単なる表面的な恋愛喜劇ではなく、心温まる映画である。,5,0
+267,humble,謙遜した；質素な,The sales manager made a humble apology to the client for the mistake in the order.,販売部長は注文ミスについて顧客に低姿勢で詫びた。,4,3
+268,relevant,関係する；適切な,He was asked to make his speech relevant to the current project.,彼は現在のプロジェクトに関するスピーチをするように求められた。,5,3
+269,stalemate,膠着状態,The CEO's proposal broke the stalemate and the deal was finalized.,CEOの提案は膠着状態を打破して、取引は完了した。,5,4
+270,implication,（予測される）影響；含み,The employees are worried about the implications of the planned merger.,社員たちは、計画されている合併の影響を心配している。,4,6
+271,extravaganza,豪華なイベント,"Every year before the final match, over-the-top extravaganza are staged.",毎年、決勝戦の前には、とても派手なイベントが繰り広げられる。,5,0
+272,juncture,重大な時点；岐路,Our company is now at a critical juncture; whether to stay within the domestic market or expand abroad.,当社は今、国内市場にとどまるか、海外に拡大するかの重大な岐路に立っている。,5,3
+273,inception,発足；開始,"From its inception, the e-reader gained high market share.",発売当初から、そのeリーダーは高い市場占有率を獲得した。,5,1
+274,disruption,中断；遮断,Disruption in the power supply sometimes happens in this country.,この国では停電が時々発生する。,5,1
+275,twist,趣向；ねじれ,Restaurant Tan Long offers traditional local dishes with modern twists.,レストラン・タンロンは、現代的な趣向を加えた伝統的な地元料理を提供します。,5,0
+276,realignment,再編；再調整,The board is discussing a realignment of our company's organization.,取締役会は私たちの会社組織の再編を話し合っている。,5,1
+277,proprietor,所有者,You can negotiate with the proprietor on the price of his property for sale.,売りに出ている不動産の価格は所有者と交渉できます。,5,4
+278,intermission,中断；休憩；（演劇などの）幕間,The concert will last approximately 4 hours including one 20-minute intermission.,そのコンサートは20分の休憩を一回挟んで約4時間続きます。,5,1
+279,norm,水準；基準,The new salesperson's performance in her first month was above the norm.,その新人の販売員が最初の月にあげた実績は水準以上だった。,6,0
+280,outreach,普及活動；出張支援,I'm in chage of the internship's outreach program to college students.,私は、大学生に対するインターン勧誘プログラムを担当しています。,5,1
+281,typo,誤植；ミスプリント,Could you check his document as there any still be some typos?,まだ誤植が残っているかもしれないので、この書類をチェックしてもらえますか？,5,1
+282,resilience,精神的な耐性；回復力,The theme of today's seminar is resilience in difficult business situations.,今日のセミナーのテーマは、厳しいビジネス環境における精神的な耐性だ。,5,1
+283,odds,可能性；困難,The odds are that the candidate will decline our offer.,その候補者はおそらく当社のオファーを断るだろう。,5,2
+284,proponent,提唱者；支持者,The production manager is a strong proponent of on-site employee training.,生産部長は社員の実地研修の強力な提唱者だ。,5,2
+285,ingredient,材料；構成要素,Our dishes are all made from organic ingredients.,当店の料理は全て有機素材で作られています。,5,1
+286,appetite,意欲；食欲,James is an energetic worker and has an appetite for learning.,ジェームズは活力にあふれた社員で、学ぶ意欲を持っている。,4,3
+287,showcase,紹介の機会；陳列ケース,The convention is a showcase of the latest video games and entertainment software.,その会議は、最新のテレビゲームと娯楽ソフトを紹介する場である。,5,0
+288,fanfare,派手な宣伝；大きな注目,Let's celebrate the company's 100th anniversary with great fanfare.,会社の100周年記念日を盛大にお祝いしましょう。,5,1
+289,outfit,（特別な目的の）服装；用具一式,The electrician had to wear a special outfit when performing his duties.,その電気技師は業務を行うとき、特別な服を着用しなければならなかった。,5,0
+290,turnout,参加者（数）,"Convention turnout was high, with people drawn to the exciting exhibits.",人々が魅力的な展示品に引きつけられたので、大会の入場者は多かった。,5,3
+291,oversight,見落とし；不注意,A clerical oversight left some important figures off the quarterly report.,事務処理の不注意により四半期報告書からいくつかの重要な数字が抜け落ちた。,5,2
+292,discretion,自主裁量；慎重さ,All decisions are left to the manager's discretion.,全ての決定はマネージャーの裁量に委ねられている。,4,12
+293,momentum,勢い；はずみ,The mystery novel loses momentum toward the end.,そのミステリー小説は結末に向かって勢いがなくなっていく。,5,2
+294,leverage,影響力；てこの力,CFO Roslyn Harper has significant leverage with the board of directors.,最高財務責任者のロスリン・ハーパーは取締役会に大きな影響力を持っている。,5,4
+295,preoccupation,夢中；関心事,"Julius has a preoccupation with languages, studying Arabic, Russian and Chinese daily.",ジュリアスは言語に夢中になっていて、毎日、アラビア語、ロシア語、中国語を勉強する。,4,5
+296,surplus,過剰；余剰 - 過剰の；余剰の,"The farmers had a surplus of grain last year, but this year the supply is low.",農家は、去年は穀物の収穫が過剰だったが、今年は供給が少ない。,4,0
+297,ambience,雰囲気；環境,The restaurant is well-known for its relaxed ambience and splendid food.,そのレストランはゆったりとした雰囲気と素晴らしい料理で有名だ。,5,1
+298,allure,魅力 - 魅惑する,This booklet is a great introduction to the allure of Florence.,この小冊子は、フィレンツェの魅力をたっぷり教えてくれます。,5,3
+299,bustle,活気；にぎわい,Get away from the hustle and bustle of the city with Weekend Resorts.,ウィークエンド・リゾーツで都市の喧騒から逃れてください。,5,1
+300,disclosure,開示；公開,Investors are demanding full disclosure of the financial details.,投資家たちは財務の詳細をすべて開示するように求めている。,5,0
+301,proximity,近いこと,Proximity to the railway terminal made Greenhills a prime residential area.,電車のターミナルに近いことでグリーンヒルズは最上級の住宅地になった。,5,2
+302,liaison,連絡；調整役,We'd like you to serve as a liaison between the R&D and production divisions.,私たちはあなたに、研究開発部門と生産部門の調整役になってほしい。,5,2
+303,protocol,手順；儀礼,The accounting section set a new protocol for reimbursing expenses.,経理部は経費払い戻しの新しい手順を定めた。,5,0
+304,conflict,予定の重複；衝突,I have a scheduling conflict this Friday.,今週の金曜は予定が重複しています。,5,3
+305,bias,偏見；偏向,We always hire or promote staff without any individual bias.,私たちは常に、個人的な偏見を入れることなく、スタッフの採用と昇格を行なっている。,5,0
+306,fatigue,過労,Neal had to quit his job because he was suffering from severe fatigue.,ニールは極度の疲労に苦しんだので、仕事を辞めざるを得なかった。,5,0
+307,plight,苦境,"Our company is now in a terrible plight, as it has lost substantial market share.",マーケットシェアを大きく失って、当社は今、大変な苦境にある。,5,1
+308,remedy,改善法；治療,The government can't seem to come up with a remedy for the ailing economy.,政府は低迷する経済の改善策を考え出すことができないようだ。,5,1
+309,contingency,緊急事態,"The production department plans for multiple contingencies, such as raw material shortages.",生産部は原材料不足などの多様な緊急事態に備えて計画を立てている。,4,13
+310,discrepancy,矛盾；不一致,Please look over the agreement to make sure there isn't a discrepancy in the terms.,条項に矛盾がないことを確認するために契約書に目を通してください。,5,4
+311,flaw,欠陥；不備,Our overseas investment plan seemed to have no flaws.,我々の海外投資計画は不備がないように思われた。,5,3
+312,burden,重荷 - 負担を負わせる,Some men believe that it is a burden to take care of a family.,男性の中には、家族の面倒を見ることを重荷だと考える人もいる。,5,0
+313,aptitude,才能；適性,It takes a certain amount of skill and aptitude to do the job well.,その仕事をうまくこなすには、ある程度の技能と適性が必要だ。,5,3
+314,privilege,特権；特典,Frances had the privilege of going to Europe on her business trip.,フランシスは出張でヨーロッパに行けるという特権を持っていた。,5,7
+315,dignity,品位；威厳,The CEO told the staff to have dignity when performing their duties.,CEOはスタッフに、業務を遂行するときには品位を持つようにと言った。,4,1
+316,phenomenon,驚くべきこと；現象,Her first novel became the literary phenomenon of the decade.,彼女の最初の小説は10年来の文学の一大事件になった。,5,2
+317,tribute,賛辞；尊敬のしるし,The Developer of the Year Award is a tribute to cutting-edge IT firms.,開発者年度大賞は最先端のIT企業を称えるものだ。,4,1
+318,foundation,根拠；基礎；財団,There was no foundation in the supervisor's objections.,上司の反対意見には根拠がなかった。,5,3
+319,intuition,直感；洞察,Martin's intuition told him that he should not accept the job offer.,マーティンの直感は、その職のオファーを受けるべきではないと告げた。,5,0
+320,scrutiny,精査,All legal agreements require close scrutiny before signing them.,すべての法的な合意文書は署名する前に慎重な精査が必要だ。,5,7
+321,framework,枠組み；構造,Negotiators from both firms agreed to a basic contract framework.,両社の交渉担当者は基本的な契約の枠組みに合意した。,5,0
+322,predecessor,前任者,We are more technologically advanced than our predecessors.,我々は前任者たちよりも技術的に進歩している。,0,2
+323,prerequisite,必要条件；前提 - 不可欠な,An MBA degree is a prerequisite for the managerial position.,そのマネージャー職にはMBAの学位が必要条件となる。,0,1
+324,venue,開催場所,Midtown Conference Hall is an ideal venue for large business or association gatherings.,ミッドタウン会議ホールは企業や団体の大きな会合を開くのに理想的な場所だ。,1,2
+325,premise,（建物の）敷地；前提,"Guards patrol the building parking lot, lobby and other premises at night.",警備員は夜間、建物の駐車場とロビー、他の敷地を巡回する。,0,2
+326,receptacle,容器；貯蔵所,"Separate receptacles for discarded glass, paper, and plastic are set up throughout the building.",廃棄されるガラス、紙、ビニール用のそれぞれの容器が館内中に設置されている。,0,2
+327,literature,（案内・宣伝のための）印刷物；パンフレット；文学,Zoo visitors may pick up attraction literature at the main gate.,動物園の訪問者は正門で見所を紹介するパンフレットを手に入れることができます。,1,1
+328,spectrum,範囲；種類；（光の）スペクトル,Our school offers a broad spectrum of classes for foreign language learners.,当スクールは、外国語学習者のために幅広い種類のクラスを用意しています。,0,0
+329,fraction,一部；断片,A growing fraction of store customers are buying from the vegetarian section.,菜食主義の売り場で購入する買い物客の割合が増えている。,1,3
+330,bulk,大量；大部分 - 大口の,The bulk of company branches are in Southeast Asia and Europe.,会社の支店の大部分は東南アジアとヨーロッパにある。,0,1
+331,stake,出資（金）；賭け金,"Pauline invested €11 million into the startup, giving her a 53% percent stake.",ポーリーンはその新興事業に1100万ユーロを投資して、53%の出資比率を獲得した。,1,1
+332,cluster,集積；（人の）集まり,"In the provincial city, a cluster of IT companies has formed over the past decade.",その地方都市では、過去10年間でIT企業の集積地が形成された。,0,1
+333,quota,ノルマ；割当量,The manager set a new sales quota for salespersons.,部長は販売員の新しい販売ノルマを設定した。,1,1
+334,array,多様；並んだもの,There is a wonderful array of food and drinks on the table.,テーブルの上には、すばらしく多彩な食べ物と飲み物が並んでいる。,1,1
+335,endeavor,懸命な努力 - 懸命に努力する,We must make every endeavor to win back our market share.,我々はマーケットシェアを取り戻すためにあらゆる努力をしなければならない。,0,1
+336,transition,移行；推移；過渡期,"Although the office moved to another state, the staff found it easy to adjust to the transition.",オフィスは別の州に移ったが、スタッフはその移転に容易に適応した。,1,1
+337,compliance,（法令・規則の）遵守；従うこと,Our safety procedures are in compliance with the state regulations.,当社の安全手順は州の規則に従ったものだ。,0,0
+338,pity,残念なこと；同情,The CEO had pity for the laid-off workers in the process of downsizing.,CEOは人員削減の過程で解雇される労働者に同情を覚えた。,0,0
+339,quest,探求；追求,The athlete is on a quest for the gold medal at the Olympics.,その選手はオリンピックで金メダルを目指している。,1,1
+340,certificate,証明書；免状,"In order to receive a Social Security number, you must present your birth certificate.",社会保険番号を取得するためには、出生証明書を提示しなければならない。,0,0
+341,reminder,思い出させるもの；注意喚起；督促状,Thank you for your kind reminder.,ご親切に思い出させてくれてありがとうございます。,1,1
+342,patronage,愛顧；常連客,The art gallery relies heavily on guest patronage for its operating funds.,その美術館は運営資金を来館者の愛顧に大きく依存している。,1,1
+343,acquaintance,知人；面識,Our CEO prefers to do business with acquaintances and friends.,私たちのCEOは知人や友人と仕事をすることを好む。,1,1
+344,initiative,率先；主導権；構想,The assistant manager took the initiative in trying to solve the problem.,副課長は率先して、その問題を解決しようとした。,1,0
+345,vision,見通し；先見の明；視覚,Only Ms. Hanson has the vision and the drive to make the project successful.,ハンソンさんだけがそのプロジェクトを成功させる見通しと意欲を持っている。,1,1
+346,preference,好み；優先,I have no particular preference for drinks.,私は飲み物に特別な好みはありません。,0,2
+347,criteria,判断基準,The company has established criteria for employee evaluations.,会社は社員評価の判断基準を確立している。,1,1
+348,portion,部分；一部,Beth read only a portion of the contract but signed it anyway.,ベスは契約書の一部しか読まなかったが、とにかくサインした。,0,0
+349,perception,認識；知覚,The president has a clear perception of the company's weakness.,社長は会社の弱みについて明確な認識を持っている。,1,2
+350,harvest,収穫（物）；成果,Thailand had an enormous rice harvest this year.,タイは今年、米が大豊作だった。,1,1
+351,fare,（交通機関の）運賃；料理,The City-Go Pass provides an easier way to cover daily commuting fares.,シティーゴーパスは毎日の通勤運賃の支払いを簡便にします。,1,1
+352,comparison,比較,The sales manager made a comparison between the two graphs.,販売課長は2つのグラフを比較した。,0,1
+353,obstacle,障害；邪魔,Ignorance is an obstacle to progress.,無知は進歩の障害だ。,1,1
+354,scope,領域；範囲,Camille's position as quality control manager gives her a broad scope of autohrity.,カミーユの品質管理マネジャーとしての職むには幅広い権限領域がある。,1,1
+355,regulation,規則；法規,It is against company regulations to wear shorts to work.,ショートパンツをはいて働くのは会社の規則に違反する。,1,1
+356,shortcoming,短所；欠点,I think my only shortcoming is a lack of experience in management.,私の唯一の短所はマネジメント経験の不足だと思います。,1,1
+357,deficit,赤字；不足,The state government is now struggling to reduce budget deficits.,州政府は今、財政赤字の削減に奮闘している。,2,2
+358,inconvenience,不便；迷惑,Airline staff apologized to passengers for their delayed departure inconvenience.,航空会社のスタッフは出発の遅れによる不便を乗客に謝罪した。,0,0
+359,statement,明細書；声明,Customers are encouraged to switch to online statements.,顧客はオンラインの明細書に切り替えることを勧められている。,1,2
+360,drive,意欲；活力,The brokers have the drive to close deals at a very high rate.,ブローカーたちは極めて高い成功率で商談をまとめようという意欲に満ちている。,1,0
+361,input,意見；協力；入力（情報）,The president always values helpful input from employees on improving the workplace.,社長は、職場改善についての社員から有益な意見をいつも歓迎する。,1,0
+362,agency,代理店；（政府）機関,"We are a travel agency focused on Tuscany, Italy.",私たちはイタリアのトスカーナ州に特化した旅行代理店です。,1,0
+363,panel,専門家集団,A panel of doctors reviewed several medical malpractice claims.,医師団は数件の医療過誤に対する賠償請求を審査した。,1,1
+364,reform,改革 - 改革する,Overall reform is necessary for the current pension system.,現在の年金制度には全般的な改革が必要だ。,1,0
+365,principle,原則；主義,We operate on the principle of putting the customer first.,当社は「顧客を第一に」という原則で業務を行なっております。,1,0
+366,patron,後援者；常連客,The firm is known for being a patron of the arts.,その会社は芸術の後援者として知られている。,1,1
+367,coverage,適用範囲,The insurance policy offers full coverage on fire and theft.,この保険は、火災や盗難の全てを保証範囲としている。,1,1
+368,frequency,頻度；周波数,What is the frequency of your overseas business trips?,海外出張の頻度はどれくらいですか？,1,0
+369,finding,調査結果；発見結果,Findings on the latest consumer survey are posted on our Web site.,最新の消費者調査の結果は当社のウェブサイトにアップされています。,1,1
+370,complex,複合ビル；コンプレックス - 複雑な,The firm plans to develop another office complex downtown.,その会社は市街地にもう一つの複合オフィスビルを開発する計画だ。,1,0
+371,basis,原則；基礎,I work for the company on a contract basis.,私はこの会社で契約ベースで働いている。,0,1
+372,controversy,議論；議論の的,There is controversy over the plans to outsource some business functions.,業務機能の一部を外部委託するという計画には議論がある。,1,2
+373,caution,注意；警告,He received a caution from his doctor about too much fat in his diet.,彼は食事で脂肪をとりすぎていると医師から注意を受けた。,0,0
+374,packet,パッケージ；包み,Please refer to the information packet attached for further details.,さらに詳しいことは添付の情報パッケージをご参照ください。,1,0
+375,development,（物事の）進展；開発,The newscaster waited for a development in the breaking news story.,ニュースキャスターは緊急ニュースのストーリーの進展を待った。,0,0
+376,custom,（社会的な）習慣；（複数で）税関,It's a custom to eat turkey on Thanksgiving Day.,感謝祭の日には七面鳥を食べるのが習慣だ。,1,0
+377,tendency,傾向；性向,The engineers fixed a problem with a car model that had a tendency to overheat.,エンジニアたちはオーバーヒートする傾向がある車種の問題を解決した。,1,0
+378,prospect,見通し；将来性,Gatner Zoo faces the prospect of more visitors as the weather becomes warmer.,ガトナー動物園は、気候が暖かくなるにつれて、ますます多くの訪問客を見込める。,0,1
+379,fortune,運；財産,"After the chairman resigned, the company's fortune turned for the worse.",会長が辞任した後、その会社の運命は暗転した。,0,0
+380,representative,担当者；代表者,The CEO started his career as sales representative.,CEOは販売員としてキャリアをスタートした。,1,1
+381,account,顧客；説明；（銀行などの）口座,Mr. Goh secured three international accounts in his first month on the job.,ゴーさんは仕事を始めた最初の月に3件の海外顧客を獲得した。,1,1
+382,round,回数,She has passed the multiple round of job interviews.,彼女は数多くの面接を通過した。,0,1
+383,session,集まり；会合,The rescue team will undergo a series of practice sessions.,救助隊は一連の実地研修を受ける。,1,1
+384,code,規則；符号,Everyone in the company must follow its code of ethics.,会社の誰もがその倫理規定に従わなければならない。,1,1
+385,fine,罰金,A $500 fine is imposed for riding without a valid ticket.,有効な切符を持たない乗車には500ドルの罰金が科せられる。,1,2
+386,company,来客；付き合い,I'm expecting company late this afternoon.,今日の午後遅くに来客がある予定です。,0,0
+387,mind,考え；心,Do you have any particular meeting place in mind?,特定の待ち合わせ場所を考えていますか？,1,0
+388,tip,ヒント；心付け（チップ）；先端,Check our Web site for many useful tips on travelling in Spain.,当社のウェブサイトでは、スペインを旅行するのに有益なたくさんのヒントが見つかります。,1,0
+389,review,調査；見直し；批評,City officials came for a review of safety measures.,安全対策の調査のために市の担当官が来社した。,1,1
+390,fair,説明会；見本市,This job fair is targeted at international job seekers.,この就職説明会は海外の求職者を対象としたものだ。,0,2
+391,manner,方法；態度,"In future, we have to hire staff in a more timely manner.",今後、私たちはもっとタイミングのいい方法でスタッフを採用しなければならない。,1,1
+392,perseverance,忍耐；我慢強さ,Perseverance is a key element to success.,我慢強さは成功の重要な要素だ。,0,4
+393,view,意見；眺め - 見る,His view of the new project is too optimistic.,新しいプロジェクトに対する彼の考えは楽観的すぎる。,0,1
+394,rate,価格；比率；速度 - 評価する,You can reserve a room in the conference hotel at a special rate.,あなたは会議場のホテルに特別価格で部屋を予約できます。,0,1
+395,unit,単位；装置,We are still negotiating with the vendor on price per unit.,私たちはまだ、納入業者と単価について交渉している。,1,0
+396,addiion,追加された人（物）,You are a valuable addition to our department.,あなたは私たちの部のかけがえのない新メンバーです。,0,0
+397,revise,を見直す；を修正する,Windle Corp had revised its hiring policy before the government announced it would be changing the labor standards act.,政府が労働基準法を変更すると発表する前に、Windle社は採用規定を修正していた。,0,0
+398,reinforce,を強化する；を補強する,An analysis of the sales report for July has reinforced management's belief that sales will continue to pick up.,7月の販売報告書の分析で、売り上げが継続的に上向くだろうという経営陣の確信がより強固なものになった。,0,0
+399,contractor,請負業社；契約業社,"By the time the tourism season begins, the contractor will have completed construction of a second terminal at Nowak Airport.",観光シーズンが始まるまでには、その請負業社は、Nowak空港で2つ目のターミナル建設を完了しているだろう。,0,0
+400,wholesome,健康に良い,"The food at the Bluewater Cafe is both wholesome and tasty, but the service is rather slow.",Bluewater Cafeの食事は健康に良くて美味しいが、サービスはかなり遅い。,0,0
+401,foreseeable,予見可能な,"Despite many challenges facing the financial sector, it will probably remain stable for the foreseeable future.",金融部門は、直面する多くの困難にもかかわらず、見通せる範囲の将来、おそらく安定を維持するだろう。,0,0
+402,notwithstanding,にも関わらず【副】,"Notwithstanding the rain, I went out.",雨にも関わらず出かけた。,0,0
