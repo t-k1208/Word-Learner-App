@@ -83,7 +83,7 @@
 
   <div class="tocsv" align="right" style="margin-top: 5px;">
     <form action="toCSV">
-      <button type="submit" value="toCSV">toCSV</button>
+      <button type="submit" value="toCSV">CSV出力</button>
     </form>
   </div>
 
@@ -123,13 +123,13 @@
           <td><input required id="meaning" type="text" class="form-control" name="meaning" placeholder="Meaning" autocomplete="off" rows="1" value={{result.meaning}}></td>
               <td><textarea id="en" type="text" class="form-control resize" name="en" placeholder="English Sentence"  oninput="resizeTextarea()" autocomplete="off" rows="1">{{result.en_sentence}}</textarea></td>
               <td><textarea id="jp" type="text" class="form-control resize" name="jp" placeholder="English Sentence"  oninput="resizeTextarea()" autocomplete="off" rows="1">{{result.jp_sentence}}</textarea></td>
-          <td><input type="submit" value="modify" size="1" style="margin-top: 10px;"></td>
+          <td><input type="submit" value="変更" size="1" style="margin-top: 10px;"></td>
       </tr>
     </form>
     <!-- 削除ボタン -->
     <form class="col-md-6 col-md-offset-3">
       <input type="hidden" id="id" type="text" class="form-control" name="{{result.id}}" autocomplete="off" value="{{result.id}}">
-      <button value="delete" onclick="delete_record()">delete</button>
+      <button value="delete" onclick="delete_record()">削除</button>
     </form>
     <p></p>
   {% endfor %}
@@ -146,7 +146,7 @@
               <td><textarea required id="meaning" type="text" class="form-control" name="meaning" placeholder="Meaning" autocomplete="off" cols="7">{{list.meaning}}</textarea></td>
               <td><textarea id="en" type="text" class="form-control resize" name="en" placeholder="English Sentence"  oninput="resizeTextarea()" autocomplete="off">{{list.en_sentence}}</textarea></td>
               <td><textarea id="jp" type="text" class="form-control resize" name="jp" placeholder="English Sentence"  oninput="resizeTextarea()" autocomplete="off">{{list.jp_sentence}}</textarea></td>
-              <td><input type="submit" value="modify" size="1"></td>
+              <td><input type="submit" value="変更" size="1"></td>
             </tr>
           </form>
         {% endfor %}
@@ -280,4 +280,25 @@
 }
 </script>
 <!-- 変更内容をデータベースに送信する -->
+
+<!-- 変更ボタンを押したら行を光らせて消える -->
+<script>
+  $(document).on('click', 'input[type="submit"][value="変更"]', function() {
+    var row = $(this).closest('tr');
+    row.addClass('highlight');
+    setTimeout(function() {
+      row.removeClass('highlight');
+    }, 2000); // 2000ミリ秒（2秒）後に光りを消す
+    setTimeout(function() {
+      row.removeClass('highlight');
+    }, 4000); // 4000ミリ秒（4秒）後に光りを完全に消す
+  });
+</script>
+
+<style>
+  .highlight {
+    background-color: rgba(228, 255, 226, 0.931); /* 黄色の半透明 */
+  }
+</style>
+
 </html>

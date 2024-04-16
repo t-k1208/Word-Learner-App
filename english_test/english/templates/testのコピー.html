@@ -1,0 +1,240 @@
+<!--
+{{ prob_list }}</br>
+{{ prob_id }}</br>
+{{ sentence_blank }}</br>
+{% for c in clist %}
+  {{ c }}</br>
+{% endfor %}
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+  body {
+    /* background: #f1f1f1; */
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 0 20px;
+  }
+
+  .container {
+    border: 2px solid #dedede;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    padding: 0px 10px;
+    margin: 10px 0;
+  }
+
+  .darker {
+    border-color: #ccc;
+    background-color: #ddd;
+  }
+
+  .container::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .container img {
+    float: left;
+    max-width: 60px;
+    width: 100%;
+    margin-right: 20px;
+    border-radius: 50%;
+  }
+
+  .container img.right {
+    float: right;
+    margin-left: 20px;
+    margin-right:0;
+  }
+
+  .time-right {
+    float: right;
+    color: #aaa;
+  }
+
+  .time-left {
+    float: left;
+    color: #999;
+  }
+  </style>
+  <script   src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+  </head>
+
+
+<body>
+
+  <h2>prob</h2>
+  <div class="container">
+      <style>
+      input[type=text], select {
+      width: 100%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+      }
+
+      input[type=submit] {
+      width: 100%;
+      background-color: #4CAF50;
+      color: white;
+      padding: 14px 20px;
+      margin: 8px 0;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      }
+
+      input[type=submit]:hover {
+      background-color: #45a049;
+      }
+
+      div {
+      border-radius: 5px;
+      background-color: #f2f2f2;
+      padding: 20px;
+      }
+      </style>
+
+      <form id="post-form" method="POST" action="send">
+          {% csrf_token %}
+          <p>{{ sentence_blank }}</p>
+          <p>{{ jp }}</p>
+          <input type="hidden" name="prob_id" id="prob_id" value="{{ prob_id }}"/>
+          <input type="text" name="my_ans" id="my_ans" width="100px" autocomplete="off"/>
+          <input type="submit" value="Send">
+      </form>
+  </div>
+
+  <div id="display">
+  <!--
+  <div class="container darker">
+    <b>Tom</b><p>Hello Everyone, How Are You Guys Doing?</p>
+    <span class="time-left">20th, April 2021</span>
+  </div> 
+  </div>
+  -->
+
+  <!-- チャット表示機能 -->
+
+  <script>
+  $(document).ready(function(){
+
+  // setIntervalで1000ミリ秒で繰り返し処理する
+  setInterval(function(){
+      $.ajax({
+          type: 'GET',
+          url : "/getResult",
+          success: function(response){
+              console.log(response);
+              $("#display").empty();
+              for (var key in response.results.reverse()) {
+                if (response.results[key].my_ans == response.results[key].word) {
+                  judge = "correct: "
+                }
+                else {
+                  judge = "worng: "
+                }
+                var temp="<div class='container darker'><p>"
+                  +response.results[key].en_sentence
+                  +"</p><p>"
+                  +response.results[key].jp_sentence
+                  +"</p><p>"
+                  +judge+response.results[key].my_ans
+                  +"</p></div>";
+                $("#display").append(temp);
+              }
+          },
+          error: function(response){
+              alert('An error occured')
+          }
+      });
+  },1000);
+  })
+  </script>
+
+  <!--
+  <div class="container">
+      <style>
+      input[type=text], select {
+      width: 100%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+      }
+
+      input[type=submit] {
+      width: 100%;
+      background-color: #4CAF50;
+      color: white;
+      padding: 14px 20px;
+      margin: 8px 0;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      }
+
+      input[type=submit]:hover {
+      background-color: #45a049;
+      }
+
+      div {
+      border-radius: 5px;
+      background-color: #f2f2f2;
+      padding: 20px;
+      }
+      </style>
+
+      <form id="post-form">
+          {% csrf_token %}
+          {% for id_list, en_list, jp_list, ans_list, sentence_blank in obj_list %}
+            <p>{{ sentence_blank }}</p>
+          {% endfor %}
+          <input type="hidden" name="id" id="id" value="1"/>
+          <input type="text" name="my_ans" id="my_ans" width="100px" />
+          <input type="submit" value="Send">
+      </form>
+  </div>
+  -->
+
+</body>
+
+<!-- 入力内容をデータベースに送信する -->
+<!--
+<script type="text/javascript">
+  $(document).on('submit','#post-form',function(e){
+    // ページがリロードされたり、別のページに移動するのを防ぐ
+    //e.preventDefault();
+
+    // ajaxを使ってフォームに入力された内容をデータベースに送信する
+    $.ajax({
+      type:'POST',
+      url:'/send',
+      data:{
+          prob_id:$('#prob_id').val(),
+          my_ans:$('#my_ans').val(),
+        csrfmiddlewaretoken:$('input[name=csrfmiddlewaretoken]').val(),
+      },
+      success: function(data){
+         alert(data)
+      }
+    });
+    document.getElementById('my_ans').value = ''
+    // ページがリロードされたり、別のページに移動するのを防ぐ
+    e.preventDefault();
+  });
+</script>
+-->
+<!-- 入力内容をデータベースに送信する -->
+
+</html>
